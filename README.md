@@ -1,16 +1,38 @@
-### Hi there 👋
+### Description
 
-<!--
-**iiitdbrocoders/iiitdbrocoders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A simple portfolio template for developer/designers built with React. 
 
-Here are some ideas to get you started:
+### [live preview](https://ubaimutl.github.io/react-portfolio/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)](https://ubaimutl.github.io/react-portfolio/)
+
+### Features
+
+- Fully Responsive
+- Multi-Page Layout
+- Contact Form With EmailJs
+- React-Bootstrap
+- Edit Content From One Place
+
+### Setup
+
+Get the code
+
+<pre>git clone https://github.com/ubaimutl/react-portfolio.git</pre>
+ 
+Install required dependencies
+
+<pre>yarn install</pre>
+
+
+Start the server
+
+<pre>yarn start</pre>
+
+### More
+
+Modify pages content in  `src/content_option.js`.
+
+### Thanks
+
+If you like this portfolio template don't forget give it a ⭐ 
